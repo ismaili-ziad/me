@@ -16,5 +16,5 @@
 - I demonstrated for the module titled "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
 
 ## Publications
-Z. I. Alaoui and D. Plump, "Linear-Time Graph Programs without Preconditions", Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science. (To appear.)
-Z. I. Alaoui and D. Plump, "Linear-Time Graph Programs for Unbounded-Degree Graphs", Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: 10.1007/978-3-031-64285-2_1
+1. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs without Preconditions", Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science. (To appear.)
+2. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs for Unbounded-Degree Graphs", Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: 10.1007/978-3-031-64285-2_1
