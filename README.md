@@ -1,6 +1,10 @@
 # PhD Researcher in Theoretical Computer Science
 
-#### Interests: Graph Transformation, Graph Rewriting, Graph Algorithms, Succinct Data Structures, Compression
+I am a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the supervision of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaev](https://www.victorzamaraev.com/).
+
+#### Interests: Graph Transformation, Graph Rewriting, Graph Algorithms, Succinct Data Structures, Compression, Tournaments, Query Complexity
+
+To contact me, please send me an email at ku.ca.looprevil@iuoala-iliamsi.daiz (in reverse).
 
 ## Education
 - PhD, Computer Science | University of Liverpool (_Since October 2024_)								       		
@@ -17,4 +21,4 @@
 
 ## Publications
 1. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs without Preconditions", Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science. (To appear.)
-2. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs for Unbounded-Degree Graphs", Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: 10.1007/978-3-031-64285-2_1
+2. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs for Unbounded-Degree Graphs", Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
