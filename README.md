@@ -10,7 +10,7 @@
 ## Work Experience
 **Graduate Teaching Assistant at the University of Liverpool (Since January 2025)**
 - I assist with delivering the tutorials for the module titled "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).
-- I assist with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
+- I assist with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
 
 **Graduate Teaching Assistant at the University of York (Since January 2025)**
 - I demonstrated for the module titled "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
