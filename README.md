@@ -20,5 +20,6 @@ To contact me, please send me an email at ku.ca.looprevil@iuoala-iliamsi.daiz (i
 - I demonstrated for the module titled "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
 
 ## Publications
-1. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs without Preconditions", Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science. (To appear.)
-2. Z. Ismaili Alaoui and D. Plump, "Linear-Time Graph Programs for Unbounded-Degree Graphs", Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
+1. Z. Ismaili Alaoui and D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/abs/2501.09144), 40 pages, 2025.
+2. Z. Ismaili Alaoui and D. Plump, Linear-Time Graph Programs without Preconditions, Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science. (To appear.)
+3. Z. Ismaili Alaoui and D. Plump, [Linear-Time Graph Programs for Unbounded-Degree Graphs](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1), Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
