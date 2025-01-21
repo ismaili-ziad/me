@@ -1,6 +1,6 @@
 # PhD Researcher in Theoretical Computer Science
 
-I am a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the supervision of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
+I am a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the supervision of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaraev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
 
 #### Interests: Graph Transformation, Graph Rewriting, Graph Algorithms, Succinct Data Structures, Compression, Tournaments, Query Complexity
 
