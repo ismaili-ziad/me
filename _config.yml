@@ -2,6 +2,7 @@ title: Ziad Ismaili Alaoui
 logo: assets/profile2.png
 #description: 
 #show_downloads: true
+languages: ["en", "fr"]
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-multiple-languages-plugin
