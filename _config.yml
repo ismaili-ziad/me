@@ -3,3 +3,5 @@ logo: assets/profile2.png
 #description: 
 #show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-multiple-languages-plugin
