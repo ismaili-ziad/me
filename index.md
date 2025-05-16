@@ -1,4 +1,3 @@
-- [English](/en/)
 - [Français](/fr/)
 
 # PhD Student
