@@ -4,5 +4,13 @@ logo: assets/profile2.png
 #show_downloads: true
 languages: ["en", "fr"]
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-multiple-languages-plugin
+languages: ["en", "fr", "es"]
+defaults:
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
