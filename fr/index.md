@@ -1,36 +1,36 @@
 - [English](/)
 
 # Doctorant
-## Theoretical Computer Science
+## Informatique théorique
 
-I am a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the guidance of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaraev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
+Je suis actuellement doctorant à l'Université de Liverpool depuis octobre 2024. Je fais partie des groupes [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) et [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/). Je travaille sous la direction de [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) et [Viktor Zamaraev](https://www.victorzamaraev.com/). Avant cela, j’ai obtenu mon diplôme de Master à l’Université de York sous la supervision de [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
 
-*Note: My surname is "Ismaili Alaoui," in full. My first name is "Ziad." I do not have a middle name.*
+*Remarque : Mon nom de famille est "Ismaili Alaoui" dans son intégralité. Mon prénom est "Ziad." Je n’ai pas de deuxième prénom.*
 
-#### Interests: Graph Transformation, Graph Rewriting, Graph Algorithms, Succinct Data Structures, Compression, Tournaments, Query Complexity
+#### Intérêts : transformation de graphes (graph transformation), réécriture de graphes (graph rewriting), algorithmes sur les graphes, structures de données succinctes, compression, tournois (objets combinatoires), complexité des requêtes (query complexity)
 
-To contact me, please send me an email at ku.ca.looprevil@iuoala-iliamsi.daiz (in reverse, ideally).
+Pour me contacter, veuillez m’envoyer un email à ku.ca.looprevil@iuoala-iliamsi.daiz (à l’envers, de préférence; désolé, les web scrapers sont vraiment méchants).
 
-## Education
-- PhD, Computer Science | University of Liverpool (_Since October 2024_)								       		
-- MScR, Computer Science	| University of York (_September 2023 to September 2024_)	 			        		
-- BSc, Computer Science | University of York (_September 2020 to July 2023_)
+## Formation
+- Doctorat, Informatique théorique | Université de Liverpool (_depuis octobre 2024_)  
+- Master en Recherche, Informatique | Université de York (_septembre 2023 à septembre 2024_)  
+- Bachelor, Informatique | Université de York (_septembre 2020 à juillet 2023_)
 
-## Work Experience
-**Graduate Teaching Assistant at the University of Liverpool (Since January 2025)**
-- I assist with delivering the tutorials for the module titled "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).
-- I assist with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
+## Expérience professionnelle
+**Assistant d’enseignement à l’Université de Liverpool (depuis janvier 2025)**  
+- J’aide à animer les travaux dirigés du module intitulé "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).  
+- Je participe à la démonstration et à l’enseignement des tutoriels du module "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).  
 
-**Graduate Teaching Assistant at the University of York (February 2024 to May 2024)**
-- I demonstrated for the module titled "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
+**Assistant d’enseignement à l’Université de York (février 2024 à mai 2024)**  
+- J’ai assuré les démonstrations pour le module intitulé "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
 
-## Talks
-1. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), May 8th 2025.
-2. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (the United Kingdom), May 2nd 2025.
-3. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (the Netherlands), July 11th 2024.
+## Présentations
+1. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), 8 mai 2025.
+2. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (the United Kingdom), 2 mai 2025.
+3. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (the Netherlands), 11 julliet 2024.
 
 ## Publications
-1. Z. Ismaili Alaoui and N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
-2. Z. Ismaili Alaoui and D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/abs/2501.09144), 40 pages, 2025.
-3. Z. Ismaili Alaoui and D. Plump, [Linear-Time Graph Programs without Preconditions](https://arxiv.org/pdf/2503.20465), Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science, [arXiv:2503.20465](https://arxiv.org/pdf/2503.20465).
-4. Z. Ismaili Alaoui and D. Plump, [Linear-Time Graph Programs for Unbounded-Degree Graphs](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1), Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
+1. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
+2. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/abs/2501.09144), 40 pages, 2025.
+3. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs without Preconditions](https://arxiv.org/pdf/2503.20465), Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science, [arXiv:2503.20465](https://arxiv.org/pdf/2503.20465).
+4. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs for Unbounded-Degree Graphs](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1), Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
