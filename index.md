@@ -9,7 +9,7 @@ I am a current doctoral student at the University of Liverpool since October 202
 
 #### Interests: Graph Transformation, Graph Rewriting, Graph Algorithms, Succinct Data Structures, Compression, Tournaments, Query Complexity
 
-To contact me, please send me an email at ku.ca.looprevil@iuoala-iliamsi.daiz (in reverse; sorry, web scrapers are not super cool).
+To contact me, please send me an email at ziad.ismaili-alaoui (at) liverpool (dot) ac (dot) uk. (I used to have my email address reversed to reduce the risks of spam from web scrapers, but I decided to be more reasonable.)
 
 ## Education
 - PhD, Computer Science | University of Liverpool (_Since October 2024_)								       		
