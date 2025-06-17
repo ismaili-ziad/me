@@ -9,7 +9,7 @@ Je suis actuellement doctorant à l'Université de Liverpool depuis octobre 2024
 
 #### Intérêts : transformation de graphes (graph transformation), réécriture de graphes (graph rewriting), algorithmes sur les graphes, structures de données succinctes, compression, tournois (objets combinatoires), complexité des requêtes (query complexity)
 
-Pour me contacter, veuillez m’envoyer un email à ku.ca.looprevil@iuoala-iliamsi.daiz (à l’envers, de préférence; désolé, les web scrapers sont vraiment méchants).
+Pour me contacter, envoyez-moi un email à ziad.ismaili-alaoui (at) liverpool (dot) ac (dot) uk. (J'avais avant inversé mon adresse email pour réduire les risques de spam provenant de web scrapers, mais j'ai décidé d'être un peu plus raisonnable.)
 
 ## Formation
 - Doctorat, Informatique théorique | Université de Liverpool (_depuis octobre 2024_)  
@@ -25,9 +25,11 @@ Pour me contacter, veuillez m’envoyer un email à ku.ca.looprevil@iuoala-iliam
 - J’ai assuré les démonstrations pour le module intitulé "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
 
 ## Présentations
-1. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), 8 mai 2025.
-2. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (the United Kingdom), 2 mai 2025.
-3. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (the Netherlands), 11 julliet 2024.
+1. "Succinct Preferential-Attachment Graphs", 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), Europäische Akademie Otzenhausen (Allemagne), 12 Juin 2025.
+2. "Implementing Binary Search Trees in GP 2", 16th International Workshop on Graph Computation Model (GCM), Koblenz (Allemagne), 10 Juin 2025.
+3. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), 8 Mai 2025.
+4. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (Royaume-Uni), 2 Mai 2025.
+5. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (Pays-Bas), 11 Juillet 2024.
 
 ## Publications
 1. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
