@@ -35,7 +35,7 @@ Pour me contacter, envoyez-moi un email à ziad.ismaili-alaoui (at) liverpool (d
 ### Prépublications
 1. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025.
    
-   **Nous présentons une structure de données compressée pour les graphes générés par le modèle de Barabási-Albert, visant à obtenir une utilisation de l'espace proche du minimum informationnel instance-optimal (c'est-à-dire lg(1/p) bits, où p est la probabilité de générer le graphe via le modèle), tout en supportant efficacement les requêtes de navigation (par exemple, déterminer si deux sommets sont adjacents). Nos contributions principales incluent l'analyse de l'utilisation de l'espace instance-optimal, avec des résultats qui, nous pensons, pourraient présenter un intérêt indépendant.*
+   *Nous présentons une structure de données compressée pour les graphes générés par le modèle de Barabási-Albert, visant à obtenir une utilisation de l'espace proche du minimum informationnel instance-optimal (c'est-à-dire lg(1/p) bits, où p est la probabilité de générer le graphe via le modèle), tout en supportant efficacement les requêtes de navigation (par exemple, déterminer si deux sommets sont adjacents). Nos contributions principales incluent l'analyse de l'utilisation de l'espace instance-optimal, avec des résultats qui, nous pensons, pourraient présenter un intérêt indépendant.*
    
 2. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
 
