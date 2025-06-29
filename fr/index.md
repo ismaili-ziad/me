@@ -34,7 +34,13 @@ Pour me contacter, envoyez-moi un email à ziad.ismaili-alaoui (at) liverpool (d
 ## Publications
 ### Prépublications
 1. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025.
+   
+   **Nous présentons une structure de données compressée pour les graphes générés par le modèle de Barabási-Albert, visant à obtenir une utilisation de l'espace proche du minimum informationnel instance-optimal (c'est-à-dire lg(1/p) bits, où p est la probabilité de générer le graphe via le modèle), tout en supportant efficacement les requêtes de navigation (par exemple, déterminer si deux sommets sont adjacents). Nos contributions principales incluent l'analyse de l'utilisation de l'espace instance-optimal, avec des résultats qui, nous pensons, pourraient présenter un intérêt indépendant.*
+   
 2. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
+
+   *Un tournoi est défini comme un graphe orienté complet, où chaque paire de sommets est connectée par exactement un arc orienté. Un roi, dans un graphe orienté, est un sommet à partir duquel tous les autres sommets sont accessibles par un chemin d'au plus 2 arcs. Un roi fort est un roi k tel que, pour tout sommet v qui le domine, le nombre de chemins de longueur 2 de k vers v est strictement supérieur à celui de v vers k. Nous montrons que la complexité en requêtes randomisée (et donc déterministe) pour trouver un roi dans un graphe orienté arbitraire est Θ(n²). De même, nous démontrons aussi que la complexité en requêtes (randomisée et déterministe) pour trouver un roi fort dans un tournoi est Θ(n²).*
+   
 3. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/abs/2501.09144), 40 pages, 2025.
    
 ### Articles de Conférences et Séminaires
