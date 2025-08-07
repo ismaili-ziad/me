@@ -17,29 +17,25 @@ Pour me contacter, envoyez-moi un email à ziad.ismaili-alaoui (at) liverpool (d
 - Bachelor, Informatique | Université de York (_septembre 2020 à juillet 2023_)
 
 ## Expérience professionnelle
-**Assistant d’enseignement à l’Université de Liverpool (depuis janvier 2025)**  
-- J’aide à animer les travaux dirigés du module intitulé "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).  
-- Je participe à la démonstration et à l’enseignement des tutoriels du module "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).  
+**Assistant d’enseignement à l’Université de Liverpool (depuis janvier 2025 à mai 2025)**  
+- J’aidais à animer les travaux dirigés du module intitulé "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).  
+- Je participais à la démonstration et à l’enseignement des tutoriels du module "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).  
 
 **Assistant d’enseignement à l’Université de York (février 2024 à mai 2024)**  
 - J’ai assuré les démonstrations pour le module intitulé "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
 
 ## Présentations
-1. "Succinct Preferential-Attachment Graphs", 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), Europäische Akademie Otzenhausen (Allemagne), 12 Juin 2025.
-2. "Implementing Binary Search Trees in GP 2", 16th International Workshop on Graph Computation Model (GCM), Koblenz (Allemagne), 10 Juin 2025.
-3. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), 8 Mai 2025.
-4. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (Royaume-Uni), 2 Mai 2025.
-5. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (Pays-Bas), 11 Juillet 2024.
+1. "Succinct Preferential-Attachment Graphs", 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), Europäische Akademie Otzenhausen (Allemagne), 12 juin 2025.
+2. "Implementing Binary Search Trees in GP 2", 16th International Workshop on Graph Computation Model (GCM), Koblenz (Allemagne), 10 juin 2025.
+3. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), 8 mai 2025.
+4. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (Royaume-Uni), 2 mai 2025.
+5. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (Pays-Bas), 11 juillet 2024.
 
 ## Publications
 ### Prépublications
-1. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025.
-   
-   *Nous présentons une structure de données compressée pour les graphes générés par le modèle de Barabási-Albert, visant à obtenir une utilisation de l'espace proche du minimum informationnel instance-optimal (c'est-à-dire lg(1/p) bits, où p est la probabilité de générer le graphe via le modèle), tout en supportant efficacement les requêtes de navigation (par exemple, déterminer si deux sommets sont adjacents). Nos contributions principales incluent l'analyse de l'utilisation de l'espace instance-optimal, avec des résultats qui, nous pensons, pourraient présenter un intérêt indépendant.*
+1. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025. (Accepté à [WG'25](https://algo.uni-trier.de/wg2025/accepted_papers/).)
    
 2. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
-
-   *Un tournoi est défini comme un graphe orienté complet, où chaque paire de sommets est connectée par exactement un arc orienté. Un roi, dans un graphe orienté, est un sommet à partir duquel tous les autres sommets sont accessibles par un chemin d'au plus 2 arcs. Un roi fort est un roi k tel que, pour tout sommet v qui le domine, le nombre de chemins de longueur 2 de k vers v est strictement supérieur à celui de v vers k. Nous montrons que la complexité en requêtes randomisée (et donc déterministe) pour trouver un roi dans un graphe orienté arbitraire est Θ(n²). De même, nous démontrons aussi que la complexité en requêtes (randomisée et déterministe) pour trouver un roi fort dans un tournoi est Θ(n²).*
    
 3. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/abs/2501.09144), 40 pages, 2025.
    
