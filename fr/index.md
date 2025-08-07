@@ -35,9 +35,9 @@ Pour me contacter, envoyez-moi un email à ziad.ismaili-alaoui (at) liverpool (d
 ### Prépublications
 1. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025. (Accepté à [WG'25](https://algo.uni-trier.de/wg2025/accepted_papers/).)
    
-2. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
+2. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/abs/2504.19386), 2025.
    
-3. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/abs/2501.09144), 40 pages, 2025.
+3. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/pdf/2501.09144), 40 pages, 2025.
    
 ### Articles de Conférences et Séminaires
 1. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs without Preconditions](https://arxiv.org/pdf/2503.20465), Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science, [arXiv:2503.20465](https://arxiv.org/pdf/2503.20465).
