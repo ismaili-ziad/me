@@ -3,7 +3,7 @@
 # PhD Student
 ## Theoretical Computer Science
 
-I am a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the guidance of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaraev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
+Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the guidance of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaraev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
 
 *Note: My surname is "Ismaili Alaoui," in full. My first name is "Ziad." I do not have a middle name.*
 
@@ -33,12 +33,15 @@ To contact me, please send me an email at ziad.ismaili-alaoui (at) liverpool (do
 
 ## Publications
 ### Preprints
-1. Z. Ismaili Alaoui, Namrata and S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025. (Accepted at [WG'25](https://algo.uni-trier.de/wg2025/accepted_papers/).)
-
-2. Z. Ismaili Alaoui and N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/abs/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
+1. Z. Ismaili Alaoui, D. Plump, S. Wild, [Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space](https://arxiv.org/abs/2508.05251), ArXiv e-prints, [arXiv:2508.05251](https://arxiv.org/pdf/2508.05251), 2025.
    
-3. Z. Ismaili Alaoui and D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/pdf/2501.09144), 40 pages, 2025.
+2. Z. Ismaili Alaoui, Namrata and S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025. **(Accepted at [WG'25](https://algo.uni-trier.de/wg2025/accepted_papers/).)**
+
+3. Z. Ismaili Alaoui and N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/abs/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
+   
+4. Z. Ismaili Alaoui and D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/pdf/2501.09144), 40 pages, 2025. **(Under review for [LMCS](https://lmcs.episciences.org/).)**
    
 ### Conference and Workshop Papers
 1. Z. Ismaili Alaoui and D. Plump, [Linear-Time Graph Programs without Preconditions](https://arxiv.org/pdf/2503.20465), Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science, [arXiv:2503.20465](https://arxiv.org/pdf/2503.20465).
+   
 2. Z. Ismaili Alaoui and D. Plump, [Linear-Time Graph Programs for Unbounded-Degree Graphs](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1), Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
