@@ -3,7 +3,7 @@
 # Doctorant
 ## Informatique théorique
 
-Je suis actuellement doctorant à l'Université de Liverpool depuis octobre 2024. Je fais partie des groupes [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) et [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/). Je travaille sous la direction de [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) et [Viktor Zamaraev](https://www.victorzamaraev.com/). Avant cela, j’ai obtenu mon diplôme de Master à l’Université de York sous la supervision de [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
+Hey, je suis Ziad (*il*/*lui*), et je suis actuellement doctorant à l'Université de Liverpool depuis octobre 2024. Je fais partie des groupes [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) et [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/). Je travaille sous la direction de [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) et [Viktor Zamaraev](https://www.victorzamaraev.com/). Avant cela, j’ai obtenu mon diplôme de Master à l’Université de York sous la supervision de [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
 
 *Remarque : Mon nom de famille est "Ismaili Alaoui" dans son intégralité. Mon prénom est "Ziad." Je n’ai pas de deuxième prénom.*
 
@@ -33,12 +33,15 @@ Pour me contacter, envoyez-moi un email à ziad.ismaili-alaoui (at) liverpool (d
 
 ## Publications
 ### Prépublications
-1. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), ArXiv e-prints, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025. (Accepté à [WG'25](https://algo.uni-trier.de/wg2025/accepted_papers/).)
+1. Z. Ismaili Alaoui, D. Plump, S. Wild, [Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space](https://arxiv.org/abs/2508.05251), Prépublications ArXiv, [arXiv:2508.05251](https://arxiv.org/pdf/2508.05251), 2025.
    
-2. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/pdf/2504.19386), ArXiv e-prints, [arXiv:2504.19386](https://arxiv.org/abs/2504.19386), 2025.
+2. Z. Ismaili Alaoui, Namrata et S. Wild, [Succinct Preferential-Attachment Graphs](https://arxiv.org/abs/2506.21436), Prépublications ArXiv, [arXiv:2506.21436](https://arxiv.org/pdf/2506.21436), 2025. **(Accepté à [WG'25](https://algo.uni-trier.de/wg2025/accepted_papers/).)**
+
+3. Z. Ismaili Alaoui et N. S. Mande, [Hardness of Finding Kings and Strong Kings](https://arxiv.org/abs/2504.19386), Prépublications ArXiv, [arXiv:2504.19386](https://arxiv.org/pdf/2504.19386), 2025.
    
-3. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), ArXiv e-prints, [arXiv:2501.09144](https://arxiv.org/pdf/2501.09144), 40 pages, 2025.
+4. Z. Ismaili Alaoui et D. Plump, [Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144), Prépublications ArXiv, [arXiv:2501.09144](https://arxiv.org/pdf/2501.09144), 40 pages, 2025. **(En cours d’évaluation pour [LMCS](https://lmcs.episciences.org/).)**
    
-### Articles de Conférences et Séminaires
-1. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs without Preconditions](https://arxiv.org/pdf/2503.20465), Proc. 15th International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science, [arXiv:2503.20465](https://arxiv.org/pdf/2503.20465).
-2. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs for Unbounded-Degree Graphs](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1), Proc. 17th International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI: [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
+### Articles de conférences et workshops
+1. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs without Preconditions](https://arxiv.org/pdf/2503.20465), Actes du 15ᵉ International Workshop on Graph Computation Models (GCM 2024). Electronic Proceedings in Theoretical Computer Science, [arXiv:2503.20465](https://arxiv.org/pdf/2503.20465).
+   
+2. Z. Ismaili Alaoui et D. Plump, [Linear-Time Graph Programs for Unbounded-Degree Graphs](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1), Actes de la 17ᵉ International Conference on Graph Transformation (ICGT 2024). Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024. DOI : [10.1007/978-3-031-64285-2_1](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
