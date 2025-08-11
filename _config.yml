@@ -4,6 +4,7 @@ logo: assets/profile2.png
 #show_downloads: true
 languages: ["en", "fr"]
 theme: jekyll-theme-modernist
+site.description : without-description
 languages: ["en", "fr", "es"]
 defaults:
   - scope:
