@@ -12,9 +12,11 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 To contact me, please send me an email at ziad.ismaili-alaoui (at) liverpool (dot) ac (dot) uk. (I used to have my email address reversed to reduce the risks of spam from web scrapers, but I decided to be more reasonable.)
 
 ## Education
-- PhD, Computer Science | University of Liverpool (_Since October 2024_)								       		
-- MScR, Computer Science	| University of York (_September 2023 to September 2024_)	 			        		
-- BSc, Computer Science | University of York (_September 2020 to July 2023_)
+### University of Liverpool
+- PhD, Computer Science (_Since October 2024_)
+### University of York             		
+- MScR, Computer Science (_September 2023 to September 2024_)	 			        		
+- BSc, Computer Science (_September 2020 to July 2023_)
 
 ## Work Experience
 **Graduate Teaching Assistant at the University of Liverpool (January 2025 to May 2025)**
