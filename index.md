@@ -7,14 +7,15 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 
 *Note: My surname is "Ismaili Alaoui," in full. My first name is "Ziad." I do not have a middle name.*
 
-#### Interests: Graph Transformation, Graph Rewriting, Graph Algorithms, Succinct Data Structures, Compression, Tournaments, Query Complexity
+#### Interests: graph transformation, graph rewriting, graph algorithms, succinct data structures, compression, tournaments, query complexity (deterministic, randomised and quantum)...
 
 To contact me, please send me an email at ziad.ismaili-alaoui (at) liverpool (dot) ac (dot) uk. (I used to have my email address reversed to reduce the risks of spam from web scrapers, but I decided to be more reasonable.)
 
 ## Education
-### University of Liverpool
+**University of Liverpool**
 - PhD, Computer Science (_Since October 2024_)
-### University of York             		
+  
+**University of York**             		
 - MScR, Computer Science (_September 2023 to September 2024_)	 			        		
 - BSc, Computer Science (_September 2020 to July 2023_)
 
