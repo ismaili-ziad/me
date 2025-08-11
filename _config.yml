@@ -5,8 +5,6 @@ logo: assets/profile2.png
 languages: ["en", "fr"]
 theme: jekyll-theme-minimal
 languages: ["en", "fr", "es"]
-sass:
-  style: compressed
 defaults:
   - scope:
       path: "en"
