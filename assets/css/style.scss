@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #80bfff;
+}
+
+header, footer {
+  background-color: #1a1a1a;
+}
+
+code, pre {
+  background-color: #222;
+  color: #ddd;
+}
