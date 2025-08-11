@@ -3,7 +3,7 @@ logo: assets/profile2.png
 #description: 
 #show_downloads: true
 languages: ["en", "fr"]
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dark-minimal
 languages: ["en", "fr", "es"]
 defaults:
   - scope:
