@@ -1,6 +1,8 @@
 # PhD Student
 ## Theoretical Computer Science
 
+<img class="profile-picture" src="https://raw.githubusercontent.com/ismaili-ziad/me/refs/heads/main/assets/profile2.png">
+
 Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liverpool since October 2024 ([picture of me](https://raw.githubusercontent.com/ismaili-ziad/me/refs/heads/main/assets/profile2.png)). I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the guidance of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaraev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
 
 *Note: My surname is "Ismaili Alaoui," in full. My first name is "Ziad." I do not have a middle name.*
@@ -53,7 +55,7 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 6. **Linear-Time Graph Programs for Unbounded-Degree Graphs**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
    ICGT 2024: Proceedings of the 17th International Conference on Graph Transformation. Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024.<br>
-   [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1).
+   [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
 You can also find my Master's thesis [here](https://etheses.whiterose.ac.uk/id/eprint/36969/).
 
