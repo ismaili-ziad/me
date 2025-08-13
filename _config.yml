@@ -1,17 +1,23 @@
 title: Ziad Ismaili Alaoui
 logo: assets/profile2.png
-#description: 
-#show_downloads: true
-languages: ["en", "fr"]
-theme: jekyll-theme-modernist
-site.description : without-description
-languages: ["en", "fr", "es"]
-defaults:
-  - scope:
-      path: "en"
-    values:
-      lang: "en"
-  - scope:
-      path: "fr"
-    values:
-      lang: "fr"
+url: "https://www.ziadism.com"
+baseurl: "/index"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Theme's Source"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/me/"
+ - name: "Contact"
+   link: "contact"
