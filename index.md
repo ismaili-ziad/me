@@ -14,7 +14,7 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 - PhD, Computer Science (_Since October 2024_)
   
 **University of York**             		
-- MScR, Computer Science (_September 2023 to September 2024_)	 			        		
+- MScR, Computer Science (_September 2023 to September 2024_) [[Thesis]](https://etheses.whiterose.ac.uk/id/eprint/36969/)   		
 - BSc, Computer Science (_September 2020 to July 2023_)
 
 ## Work Experience
@@ -57,11 +57,14 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
    ICGT 2024: Proceedings of the 17th International Conference on Graph Transformation. Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024.<br>
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
-You can also find my Master's thesis [here](https://etheses.whiterose.ac.uk/id/eprint/36969/).
-
 ## Talks
 1. "Succinct Preferential-Attachment Graphs", 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), Europäische Akademie Otzenhausen (Germany), June 12th 2025.
 2. "Implementing Binary Search Trees in GP 2", 16th International Workshop on Graph Computation Model (GCM), Koblenz (Germany), June 10th 2025.
 3. "Succinct Preferential-Attachment Graphs", Analysis of Algorithms (AofA) 2025, Toronto (Canada), May 8th 2025.
 4. "Finding Strong Kings in Tournaments", Postgraduate Combinatorics Conference (PCC) 2025, Glasgow (the United Kingdom), May 2nd 2025.
 5. "Linear-Time Graph Programs for Unbounded-Degree Graphs", International Conference on Graph Transformation (ICGT) 2024, Enschede (the Netherlands), July 11th 2024.
+
+## Random Projects
+- [[The Weasal Program]](https://github.com/ismaili-ziad/blind-watchmaker-algorithm) A proposed C++ implementation of natural selection as per Richard Dawkins in *The Blind Watchmaker*. In his famous book, he explains a simple yet powerful algorithmic way to illustrate that natural process. The goal is to start with a string of random characters and mutate it until a target sentence is reached. A graphical interface for the program is available [here](https://github.com/ismaili-ziad/the-weasel-program-GUI).
+- [[The Mollab Project]](https://github.com/ismaili-ziad/Mollab-Project) A tentative high-school project where a user inputs the structure of a molecule and the program automatically computes its nomenclature (i.e. name). Sadly, the range of molecules it can support is narrow.
+- [[Manaloo.com (discontinued)]](https://web.archive.org/web/20220117234233/https://manaloo.com/) An exciting recreational website consisting of a series of mathematical problems meant to be solved with a single expression/formula. It is close to *Project Euler*, but instead of expecting a simple integer as an answer, the website expects instead a function (i.e. a variable expression) that it then evaluates against the expected expression. The site was sadly discontinued in 2022/23 due to high hosting fees and its small size, but it had 30+ registered members from all over the world!
