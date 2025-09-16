@@ -18,7 +18,8 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 - BSc, Computer Science (_September 2020 to July 2023_)
 
 ## Work Experience
-**Graduate Teaching Assistant at the University of Liverpool (January 2025 to May 2025)**
+**Graduate Teaching Assistant at the University of Liverpool (since January 2025)**
+- I assist with running the tutorials for the module titled "Foundations of Computer Science" ([COMP109](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189032)).
 - I assisted with delivering the tutorials for the module titled "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).
 - I assisted with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
 
@@ -41,7 +42,7 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 
 3. **Hardness of Finding Kings and Strong Kings**<br>
    Ziad Ismaili Alaoui, Nikhil S. Mande<br>
-   Preprint (2025).<br>
+   FSTTCS 2025: Foundations of Software Technology and Theoretical Computer Science 2025.<br>
    [[arXiv]](https://arxiv.org/pdf/2504.19386)
    
 4. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
