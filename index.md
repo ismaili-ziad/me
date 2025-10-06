@@ -32,7 +32,7 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 
 1. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**<br>
    Ziad Ismaili Alaoui, Detlef Plump, Sebastian Wild<br>
-   Preprint (2025).<br>
+   SOSA 2026: Symposium on Simplicity in Algorithms 2026.<br>
    [[arXiv]](https://arxiv.org/pdf/2508.05251)
 
 2. **Succinct Preferential-Attachment Graphs**<br>
