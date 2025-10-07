@@ -32,32 +32,32 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 
 1. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**<br>
    Ziad Ismaili Alaoui, Detlef Plump, Sebastian Wild<br>
-   SOSA 2026: Symposium on Simplicity in Algorithms 2026.<br>
+   <u>SOSA 2026:</u> Symposium on Simplicity in Algorithms 2026.<br>
    [[arXiv]](https://arxiv.org/pdf/2508.05251)
 
 2. **Succinct Preferential-Attachment Graphs**<br>
    Ziad Ismaili Alaoui, Namrata, Sebastian Wild<br>
-   WG 2025: International Workshop on Graph-Theoretic Concepts in Computer Science 2025.<br>
+   <u>WG 2025:</u> International Workshop on Graph-Theoretic Concepts in Computer Science 2025.<br>
    [[arXiv]](https://arxiv.org/pdf/2506.21436)
 
 3. **Hardness of Finding Kings and Strong Kings**<br>
    Ziad Ismaili Alaoui, Nikhil S. Mande<br>
-   FSTTCS 2025: Foundations of Software Technology and Theoretical Computer Science 2025.<br>
+   <u>FSTTCS 2025:</u> Foundations of Software Technology and Theoretical Computer Science 2025.<br>
    [[arXiv]](https://arxiv.org/pdf/2504.19386)
    
 4. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
-   Under review for *Logical Methods in Computer Science* ([LMCS](https://lmcs.episciences.org/)).<br>
+   <u>Under review for *Logical Methods in Computer Science* ([LMCS](https://lmcs.episciences.org/)).<br>
    [[arXiv]](https://arxiv.org/pdf/2501.09144)
    
 5. **Linear-Time Graph Programs without Preconditions**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
-   GCM 2024: Proceedings of the 15th International Workshop on Graph Computation Models. Electronic Proceedings in Theoretical Computer Science.<br>
+   <u>GCM 2024:</u> Proceedings of the 15th International Workshop on Graph Computation Models. Electronic Proceedings in Theoretical Computer Science.<br>
    [[arXiv]](https://arxiv.org/pdf/2503.20465) [[White Rose]](https://eprints.whiterose.ac.uk/id/eprint/225168/1/paper.pdf)
    
 6. **Linear-Time Graph Programs for Unbounded-Degree Graphs**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
-   ICGT 2024: Proceedings of the 17th International Conference on Graph Transformation. Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024.<br>
+   <u>ICGT 2024:</u> Proceedings of the 17th International Conference on Graph Transformation. Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024.<br>
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
 ## Talks
