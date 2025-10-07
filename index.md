@@ -47,7 +47,7 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
    
 4. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
-   <u>Under review for *Logical Methods in Computer Science* ([LMCS](https://lmcs.episciences.org/)).</u><br>
+   <u>Under review for *Logical Methods in Computer Science*</u> ([LMCS](https://lmcs.episciences.org/)).<br>
    [[arXiv]](https://arxiv.org/pdf/2501.09144)
    
 5. **Linear-Time Graph Programs without Preconditions**<br>
