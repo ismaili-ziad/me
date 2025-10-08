@@ -21,11 +21,12 @@ So, when is Cheryl's birthday?
 
 <details>
 <summary>Click here for the solution!</summary>
-  Cheryl's birthday is on July 16.
+  <br><br>
+  Cheryl's birthday is on July 16.<br><br>
 
-  Cheryl initially tells Albert the month, and Bernard the day. Clearly, Albert could not immediately know Cheryl's birthday from the month alone, as each month contains more than one date. However, Bernard would have been able to correctly guess the exact date had he been given 18 or 19, since each of those numbers does not occur more than once. The fact that Albert claims Bernard does not know the date already indicates that Bernard could not have possibly got 18 or 19, which rules out May and June.
+  Cheryl initially tells Albert the month, and Bernard the day. Clearly, Albert could not immediately know Cheryl's birthday from the month alone, as each month contains more than one date. However, Bernard would have been able to correctly guess the exact date had he been given 18 or 19, since each of those numbers does not occur more than once. The fact that Albert claims Bernard does not know the date already indicates that Bernard could not have possibly got 18 or 19, which rules out May and June.<br><br>
 
-  Bernard then proceeds to claim that he did not know when Cheryl's birthday was before Albert talked, but could correctly guess it after Albert's first sentence. Since Albert's first remark allowed us to rule out May and June, this indicates that Bernard obtained a unique number among July and August: 15, 16, or 17.
+  Bernard then proceeds to claim that he did not know when Cheryl's birthday was before Albert talked, but could correctly guess it after Albert's first sentence. Since Albert's first remark allowed us to rule out May and June, this indicates that Bernard obtained a unique number among July and August: 15, 16, or 17.<br><br>
 
-  Finally, upon hearing that, Albert confirms knowing the date. Among the remaining dates (July 16, August 15 and 17), July is the only month containing exactly one possible date. If Albert had got August instead, he would not have been able to correctly choose between August 15 and 17. This, therefore, leaves us with July 16 as the last standing survivor.
+  Finally, upon hearing that, Albert confirms knowing the date. Among the remaining dates (July 16, August 15 and 17), July is the only month containing exactly one possible date. If Albert had got August instead, he would not have been able to correctly choose between August 15 and 17. This, therefore, leaves us with July 16 as the last standing survivor.<br><br>
 </details>
