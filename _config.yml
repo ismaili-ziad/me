@@ -21,3 +21,5 @@ nav:
    link: "index"
  - name: "Contact"
    link: "contact"
+ - name: "Projects"
+   link: "projects"
