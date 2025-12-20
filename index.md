@@ -61,8 +61,9 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
 ## Talks
-1. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
-2. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
-3. **Succinct Preferential-Attachment Graphs**, Analysis of Algorithms (AofA) 2025, *Toronto (Canada), May 8th 2025*.
-4. **Finding Strong Kings in Tournaments**, Postgraduate Combinatorics Conference (PCC) 2025, *Glasgow (the United Kingdom), May 2nd 2025*.
-5. **Linear-Time Graph Programs for Unbounded-Degree Graphs**, International Conference on Graph Transformation (ICGT) 2024, *Enschede (the Netherlands), July 11th 2024*.
+1. **Hardness of Finding Kings and Strong Kings**, Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), *BITS Pilani, Goa (India), December 19th 2025*.
+2. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
+3. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
+4. **Succinct Preferential-Attachment Graphs**, Analysis of Algorithms (AofA) 2025, *Toronto (Canada), May 8th 2025*.
+5. **Finding Strong Kings in Tournaments**, Postgraduate Combinatorics Conference (PCC) 2025, *Glasgow (the United Kingdom), May 2nd 2025*.
+6. **Linear-Time Graph Programs for Unbounded-Degree Graphs**, International Conference on Graph Transformation (ICGT) 2024, *Enschede (the Netherlands), July 11th 2024*.
