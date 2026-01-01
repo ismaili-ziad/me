@@ -38,7 +38,7 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 2. **Succinct Preferential-Attachment Graphs**<br>
    Ziad Ismaili Alaoui, Namrata, Sebastian Wild<br>
    <u>WG 2025:</u> International Workshop on Graph-Theoretic Concepts in Computer Science 2025.<br>
-   [[arXiv]](https://arxiv.org/pdf/2506.21436)
+   [[arXiv]](https://arxiv.org/pdf/2506.21436) [[Slides]](https://www.ziadism.com/slides/Succinct_Preferential_Attachment_Graphs_WG25_Slides.pdf)
 
 3. **Hardness of Finding Kings and Strong Kings**<br>
    Ziad Ismaili Alaoui, Nikhil S. Mande<br>
