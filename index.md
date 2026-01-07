@@ -38,12 +38,12 @@ Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liv
 2. **Succinct Preferential-Attachment Graphs**<br>
    Ziad Ismaili Alaoui, Namrata, Sebastian Wild<br>
    <u>WG 2025:</u> International Workshop on Graph-Theoretic Concepts in Computer Science 2025.<br>
-   [[arXiv]](https://arxiv.org/pdf/2506.21436) [[Conference]](https://link.springer.com/chapter/10.1007/978-3-032-11835-6_20) [[Slides]](https://www.ziadism.com/slides/Succinct_Preferential_Attachment_Graphs_WG25_Slides.pdf)
+   [[arXiv]](https://arxiv.org/pdf/2506.21436) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-032-11835-6_20) [[Slides]](https://www.ziadism.com/slides/Succinct_Preferential_Attachment_Graphs_WG25_Slides.pdf)
 
 3. **Hardness of Finding Kings and Strong Kings**<br>
    Ziad Ismaili Alaoui, Nikhil S. Mande<br>
    <u>FSTTCS 2025:</u> Foundations of Software Technology and Theoretical Computer Science 2025.<br>
-   [[arXiv]](https://arxiv.org/pdf/2504.19386) [[Conference]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol360-fsttcs2025/LIPIcs.FSTTCS.2025.36/LIPIcs.FSTTCS.2025.36.pdf)
+   [[arXiv]](https://arxiv.org/pdf/2504.19386) [[Dagstuhl]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol360-fsttcs2025/LIPIcs.FSTTCS.2025.36/LIPIcs.FSTTCS.2025.36.pdf)
    
 4. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
