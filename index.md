@@ -5,6 +5,8 @@
 
 Hey! I am Ziad (*he*/*him*), a current doctoral student at the University of Liverpool since October 2024. I am a member of the [ACTO](https://intranet.csc.liv.ac.uk/research/acto/) and [NDC](https://www.liverpool.ac.uk/computer-science/research/research-groups/net/) groups. I work under the guidance of [Sebastian Wild](https://www.wild-inter.net/), [Nikhil Mande](https://mande-nikhil.github.io/) and [Viktor Zamaraev](https://www.victorzamaraev.com/). Prior to this, I completed my Master's degree at the University of York under the guidance of [Detlef Plump](https://www-users.york.ac.uk/~djp10/).
 
+I am also a doctoral student at Marburg University (Germany) via a cotutelle programme.
+
 *Note: My surname is "Ismaili Alaoui," in full. My first name is "Ziad." I do not have a middle name.*
 
 #### Interests: graph transformation, graph rewriting, graph algorithms, succinct data structures, compression, tournaments, query complexity (deterministic, randomised and quantum)...
