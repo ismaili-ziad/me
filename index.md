@@ -63,7 +63,7 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
 ## Talks
-1. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**, Symposium on Simplicity in Algorithms (SOSA), *Vancouver (Canada), January 13th 2025*.
+1. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**, Symposium on Simplicity in Algorithms (SOSA), *Vancouver (Canada), January 13th 2026*.
 2. **Hardness of Finding Kings and Strong Kings**, Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), *BITS Pilani, Goa (India), December 19th 2025*.
 3. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
 4. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
