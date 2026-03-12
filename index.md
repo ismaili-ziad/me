@@ -12,7 +12,7 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 #### Interests: graph transformation, graph rewriting, graph algorithms, succinct data structures, compression, tournaments, query complexity (deterministic, randomised and quantum)...
 
 ## Education
-**University of Liverpool**
+**University of Liverpool and Philipps-Universität Marburg**
 - PhD, Computer Science (_Since October 2024_)
   
 **University of York**             		
