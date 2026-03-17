@@ -32,7 +32,7 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=ubrIbOoAAAAJ) [[dblp]](https://dblp.org/pid/380/9753.html) 
 
-1. **Rooting Out Entropy: Optimal Tree Extraction for Ultra-Succinct Graphs**<br>
+1. **Rooting Out Entropy: Optimal Tree Extraction for Ultra-Succinct Graphs** (🆕 NEW)<br>
    Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Namrata, Sebastian Wild<br>
    [[arXiv]](https://arxiv.org/pdf/2603.14649)
 
