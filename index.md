@@ -32,32 +32,36 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=ubrIbOoAAAAJ) [[dblp]](https://dblp.org/pid/380/9753.html) 
 
-1. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**<br>
+1. **Rooting Out Entropy: Optimal Tree Extraction for Ultra-Succinct Graphs**<br>
+   Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Namrata, Sebastian Wild<br>
+   [[arXiv]](https://arxiv.org/pdf/2603.14649)
+
+2. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**<br>
    Ziad Ismaili Alaoui, Detlef Plump, Sebastian Wild<br>
    <u>SOSA 2026:</u> Symposium on Simplicity in Algorithms 2026.<br>
    [[arXiv]](https://arxiv.org/pdf/2508.05251) [[SIAM]](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978964.34)
 
-2. **Succinct Preferential-Attachment Graphs**<br>
+3. **Succinct Preferential-Attachment Graphs**<br>
    Ziad Ismaili Alaoui, Namrata, Sebastian Wild<br>
    <u>WG 2025:</u> International Workshop on Graph-Theoretic Concepts in Computer Science 2025.<br>
    [[arXiv]](https://arxiv.org/pdf/2506.21436) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-032-11835-6_20) [[Slides]](https://www.ziadism.com/slides/Succinct_Preferential_Attachment_Graphs_WG25_Slides.pdf)
 
-3. **Hardness of Finding Kings and Strong Kings**<br>
+4. **Hardness of Finding Kings and Strong Kings**<br>
    Ziad Ismaili Alaoui, Nikhil S. Mande<br>
    <u>FSTTCS 2025:</u> Foundations of Software Technology and Theoretical Computer Science 2025.<br>
    [[arXiv]](https://arxiv.org/pdf/2504.19386) [[Dagstuhl]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol360-fsttcs2025/LIPIcs.FSTTCS.2025.36/LIPIcs.FSTTCS.2025.36.pdf)
    
-4. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
+5. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
    <u>Accepted at <i>Logical Methods in Computer Science</i></u> ([LMCS](https://lmcs.episciences.org/)); to appear.<br>
    [[arXiv]](https://arxiv.org/pdf/2501.09144)
    
-5. **Linear-Time Graph Programs without Preconditions**<br>
+6. **Linear-Time Graph Programs without Preconditions**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
    <u>GCM 2024:</u> Proceedings of the 15th International Workshop on Graph Computation Models. Electronic Proceedings in Theoretical Computer Science.<br>
    [[arXiv]](https://arxiv.org/pdf/2503.20465) [[White Rose]](https://eprints.whiterose.ac.uk/id/eprint/225168/1/paper.pdf)
    
-6. **Linear-Time Graph Programs for Unbounded-Degree Graphs**<br>
+7. **Linear-Time Graph Programs for Unbounded-Degree Graphs**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
    <u>ICGT 2024:</u> Proceedings of the 17th International Conference on Graph Transformation. Lecture Notes in Computer Science 14774, pages 3-20. Springer, 2024.<br>
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
