@@ -22,8 +22,8 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 ## Work Experience
 **Graduate Teaching Assistant at the University of Liverpool (since January 2025)**
 - I assist with running the tutorials for the module titled "Foundations of Computer Science" ([COMP109](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189032)).
-- I assisted with delivering the tutorials for the module titled "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).
-- I assisted with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
+- I assist with delivering the tutorials for the module titled "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).
+- I assist with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
 
 **Graduate Teaching Assistant at the University of York (February 2024 to May 2024)**
 - I demonstrated for the module titled "Object Oriented Data Structures & Algorithms" ([COM00016C](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00016C/latest)).
@@ -32,7 +32,7 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=ubrIbOoAAAAJ) [[dblp]](https://dblp.org/pid/380/9753.html) 
 
-1. **Rooting Out Entropy: Optimal Tree Extraction for Ultra-Succinct Graphs** ✨ NEW<br>
+1. **Rooting Out Entropy: Optimal Tree Extraction for Ultra-Succinct Graphs**<br>
    Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Namrata, Sebastian Wild<br>
    [[arXiv]](https://arxiv.org/pdf/2603.14649)
 
@@ -67,10 +67,11 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
 ## Talks
-1. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**, Symposium on Simplicity in Algorithms (SOSA), *Vancouver (Canada), January 13th 2026*.
-2. **Hardness of Finding Kings and Strong Kings**, Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), *BITS Pilani, Goa (India), December 19th 2025*.
-3. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
-4. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
-5. **Succinct Preferential-Attachment Graphs**, Analysis of Algorithms (AofA) 2025, *Toronto (Canada), May 8th 2025*.
-6. **Finding Strong Kings in Tournaments**, Postgraduate Combinatorics Conference (PCC) 2025, *Glasgow (the United Kingdom), May 2nd 2025*.
-7. **Linear-Time Graph Programs for Unbounded-Degree Graphs**, International Conference on Graph Transformation (ICGT) 2024, *Enschede (the Netherlands), July 11th 2024*.
+1. **Storing Large Network-Shaped Data Efficiently**, Doctoral Wisdom Convergence Camp at Xi’an Jiaotong University, *Xi'an (China), April 19th 2026*.
+2. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**, Symposium on Simplicity in Algorithms (SOSA), *Vancouver (Canada), January 13th 2026*.
+3. **Hardness of Finding Kings and Strong Kings**, Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), *BITS Pilani, Goa (India), December 19th 2025*.
+4. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
+5. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
+6. **Succinct Preferential-Attachment Graphs**, Analysis of Algorithms (AofA) 2025, *Toronto (Canada), May 8th 2025*.
+7. **Finding Strong Kings in Tournaments**, Postgraduate Combinatorics Conference (PCC) 2025, *Glasgow (the United Kingdom), May 2nd 2025*.
+8. **Linear-Time Graph Programs for Unbounded-Degree Graphs**, International Conference on Graph Transformation (ICGT) 2024, *Enschede (the Netherlands), July 11th 2024*.
