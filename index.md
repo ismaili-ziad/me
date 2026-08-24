@@ -32,7 +32,11 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=ubrIbOoAAAAJ) [[dblp]](https://dblp.org/pid/380/9753.html) 
 
-1. **Independent Set Reconfiguration on Threshold Signed Graphs**<br>
+1. **Space-Efficient Hierholzer for Undirected Graphs**<br>
+   Elena Grigorescu, Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Shayan Shirazi Mofrad, Sebastian Wild<br>
+   [[arXiv]](https://arxiv.org/pdf/2608.19081)
+   
+2. **Independent Set Reconfiguration on Threshold Signed Graphs**<br>
    Ziad Ismaili Alaoui<br>
    [[arXiv]](https://arxiv.org/pdf/2607.10629)
 
