@@ -36,7 +36,7 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
    Elena Grigorescu, Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Shayan Shirazi Mofrad, Sebastian Wild<br>
    [[arXiv]](https://arxiv.org/pdf/2608.19081)
    
-2. **Independent Set Reconfiguration on Threshold Signed Graphs**<br>
+2. **Independent Set Reconfiguration via Dilworth Decompositions**<br>
    Ziad Ismaili Alaoui<br>
    [[arXiv]](https://arxiv.org/pdf/2607.10629)
 
