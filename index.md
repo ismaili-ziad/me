@@ -21,6 +21,7 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 
 ## Work Experience
 **Graduate Teaching Assistant at the University of Liverpool (since January 2025)**
+- I assist with running the tutorials for the module titled "Introduction to the Theory of Computation" ([COMP218](https://www.liverpool.ac.uk/courses/computer-science-bsc-hons/modules/comp218)).
 - I assist with running the tutorials for the module titled "Foundations of Computer Science" ([COMP109](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189032)).
 - I assist with delivering the tutorials for the module titled "Complexity of Algorithms" ([COMP202](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199252)).
 - I assist with demonstrating and delivering the tutorials for the module titled "Data Structures and Algorithms" ([COMP108](https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_cs&p_tulipproc=moddets&p_params=%3Fp_module_id%3D189059)).
@@ -34,35 +35,35 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
 
 1. **Space-Efficient Hierholzer for Undirected Graphs**<br>
    Elena Grigorescu, Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Shayan Shirazi Mofrad, Sebastian Wild<br>
-   [[arXiv]](https://arxiv.org/pdf/2608.19081)
+   [[PDF]](https://ziadism.com/papers/hierholzer-undirected.pdf) [[arXiv]](https://arxiv.org/pdf/2608.19081)
    
 2. **Independent Set Reconfiguration via Dilworth Decompositions**<br>
    Ziad Ismaili Alaoui<br>
-   [[arXiv]](https://arxiv.org/pdf/2607.10629)
+   [[PDF]](https://ziadism.com/papers/isr-dilworth-decompositions.pdf) [[arXiv]](https://arxiv.org/pdf/2607.10629)
 
 3. **Rooting Out Entropy: Optimal Tree Extraction for Ultra-Succinct Graphs**<br>
    Ziad Ismaili Alaoui, Tamio-Vesa Nakajima, Namrata, Sebastian Wild<br>
-   [[arXiv]](https://arxiv.org/pdf/2603.14649)
+   [[PDF]](https://ziadism.com/papers/rooting-out.pdf) [[arXiv]](https://arxiv.org/pdf/2603.14649)
 
 4. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**<br>
    Ziad Ismaili Alaoui, Detlef Plump, Sebastian Wild<br>
    <u>SOSA 2026:</u> Symposium on Simplicity in Algorithms 2026.<br>
-   [[arXiv]](https://arxiv.org/pdf/2508.05251) [[SIAM]](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978964.34)
+   [[PDF]](https://ziadism.com/papers/hierholzer-directed.pdf) [[arXiv]](https://arxiv.org/pdf/2508.05251) [[SIAM]](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978964.34)
 
 5. **Succinct Preferential-Attachment Graphs**<br>
    Ziad Ismaili Alaoui, Namrata, Sebastian Wild<br>
    <u>WG 2025:</u> International Workshop on Graph-Theoretic Concepts in Computer Science 2025.<br>
-   [[arXiv]](https://arxiv.org/pdf/2506.21436) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-032-11835-6_20) [[Slides]](https://www.ziadism.com/slides/Succinct_Preferential_Attachment_Graphs_WG25_Slides.pdf)
+   [[PDF]](https://ziadism.com/papers/pref-attach.pdf) [[arXiv]](https://arxiv.org/pdf/2506.21436) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-032-11835-6_20) [[Slides]](https://www.ziadism.com/slides/Succinct_Preferential_Attachment_Graphs_WG25_Slides.pdf)
 
 6. **Hardness of Finding Kings and Strong Kings**<br>
    Ziad Ismaili Alaoui, Nikhil S. Mande<br>
    <u>FSTTCS 2025:</u> Foundations of Software Technology and Theoretical Computer Science 2025.<br>
-   [[arXiv]](https://arxiv.org/pdf/2504.19386) [[Dagstuhl]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol360-fsttcs2025/LIPIcs.FSTTCS.2025.36/LIPIcs.FSTTCS.2025.36.pdf)
+   [[PDF]](https://ziadism.com/papers/strong-kings.pdf) [[arXiv]](https://arxiv.org/pdf/2504.19386) [[Dagstuhl]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol360-fsttcs2025/LIPIcs.FSTTCS.2025.36/LIPIcs.FSTTCS.2025.36.pdf)
    
 7. **Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
-   <u>Accepted at <i>Logical Methods in Computer Science</i></u> ([LMCS](https://lmcs.episciences.org/)); to appear.<br>
-   [[arXiv]](https://arxiv.org/pdf/2501.09144)
+   <u>LMCS:</u> Logical Methods in Computer Science<br>
+   [[arXiv]](https://arxiv.org/pdf/2501.09144) [[LMCS]](https://lmcs.episciences.org/18248/pdf)
    
 8. **Linear-Time Graph Programs without Preconditions**<br>
    Ziad Ismaili Alaoui, Detlef Plump<br>
