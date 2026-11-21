@@ -84,11 +84,12 @@ I am also a doctoral student at Marburg University (Germany) via a cotutelle pro
    [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-64285-2_1)
 
 ## Talks
-1. **Storing Large Network-Shaped Data Efficiently**, Doctoral Wisdom Convergence Camp at Xi’an Jiaotong University, *Xi'an (China), April 19th 2026*.
-2. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**, Symposium on Simplicity in Algorithms (SOSA), *Vancouver (Canada), January 13th 2026*.
-3. **Hardness of Finding Kings and Strong Kings**, Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), *BITS Pilani, Goa (India), December 19th 2025*.
-4. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
-5. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
-6. **Succinct Preferential-Attachment Graphs**, Analysis of Algorithms (AofA) 2025, *Toronto (Canada), May 8th 2025*.
-7. **Finding Strong Kings in Tournaments**, Postgraduate Combinatorics Conference (PCC) 2025, *Glasgow (the United Kingdom), May 2nd 2025*.
-8. **Linear-Time Graph Programs for Unbounded-Degree Graphs**, International Conference on Graph Transformation (ICGT) 2024, *Enschede (the Netherlands), July 11th 2024*.
+1. *(Invited)* **Space-Efficient Hierholzer**, University of Birmingham, *Birmingham (the United Kingdom), November 20th 2026*.
+2. **Storing Large Network-Shaped Data Efficiently**, Doctoral Wisdom Convergence Camp at Xi’an Jiaotong University, *Xi'an (China), April 19th 2026*.
+3. **Space-Efficient Hierholzer: Eulerian Cycles in *O(m)* Time and *O(n)* Space**, Symposium on Simplicity in Algorithms (SOSA), *Vancouver (Canada), January 13th 2026*.
+4. **Hardness of Finding Kings and Strong Kings**, Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), *BITS Pilani, Goa (India), December 19th 2025*.
+5. **Succinct Preferential-Attachment Graphs**, 51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG), *Europäische Akademie Otzenhausen (Germany), June 12th 2025*.
+6. **Implementing Binary Search Trees in GP 2**, 16th International Workshop on Graph Computation Model (GCM), *Koblenz (Germany), June 10th 2025*.
+7. **Succinct Preferential-Attachment Graphs**, Analysis of Algorithms (AofA) 2025, *Toronto (Canada), May 8th 2025*.
+8. **Finding Strong Kings in Tournaments**, Postgraduate Combinatorics Conference (PCC) 2025, *Glasgow (the United Kingdom), May 2nd 2025*.
+9. **Linear-Time Graph Programs for Unbounded-Degree Graphs**, International Conference on Graph Transformation (ICGT) 2024, *Enschede (the Netherlands), July 11th 2024*.
